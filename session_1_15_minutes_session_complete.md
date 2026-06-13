@@ -5,6 +5,17 @@
 *   **Machine Learning (ML):** A subset of AI. Instead of giving the machine rules, we give it data and it learns the patterns on its own.
 *   **Deep Learning (DL):** A subset of ML. Uses massive, complex "Neural Networks" inspired by the human brain. Requires enormous data and compute power. Powers modern AI like ChatGPT.
 *   **Founder Takeaway:** You don't always need Deep Learning. If you are predicting house prices based on just square footage and bedrooms, standard Machine Learning is the right tool for the job.
+
+### Core Comparison: ML vs DL
+
+| Feature | Machine Learning (ML) | Deep Learning (DL) |
+| :--- | :--- | :--- |
+| **Data Type** | Structured (e.g., Excel sheets, tables) | Unstructured (e.g., images, text, audio) |
+| **Data Size** | Works well with small datasets | Requires massive datasets to perform well |
+| **Feature Extraction** | Manual | Automatic |
+| **Training Time** | Fast; uses standard CPUs | Slow; highly reliant on GPUs |
+| **Interpretability** | Transparent (White-box model) | Opaque (Black-box model) |
+| **Common Use Cases** | Predicting house prices, customer churn, standard fraud detection | Image recognition (MRI scans), voice assistants, self-driving cars, ChatGPT |
 *   **Technical Example:** 
     *   *ML Approach:* Using a "Random Forest" algorithm to predict customer churn based on their account age and billing history (tabular data).
     *   *DL Approach:* Using a "Convolutional Neural Network (CNN)" like ResNet to scan MRI images and detect tumors (unstructured pixel data).
