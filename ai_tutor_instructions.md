@@ -42,13 +42,13 @@ The goal is to become an **"AI-literate operator/product builder/founder."**
 - Reasoning Models (e.g., OpenAI o1)
 - Small Models vs Large Models
 
-**[ ] 6. Product Layer (Current)**
+**[x] 6. Product Layer (Completed)**
 - AI Product Design & AI UX
 - Evaluations
 - Guardrails
 - Cost Optimization
 
-**[ ] 7. Future Layer**
+**[ ] 7. Future Layer (Current)**
 - AI Economics
 - AGI
 - Model Scaling
