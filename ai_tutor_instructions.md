@@ -48,7 +48,7 @@ The goal is to become an **"AI-literate operator/product builder/founder."**
 - Guardrails
 - Cost Optimization
 
-**[ ] 7. Future Layer (Current)**
+**[x] 7. Future Layer (Completed)**
 - AI Economics
 - AGI
 - Model Scaling
