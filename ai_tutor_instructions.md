@@ -11,26 +11,46 @@ The goal is to become an **"AI-literate operator/product builder/founder."**
 5. **User's Voice Answer:** The user speaks naturally.
 6. **Feedback:** Evaluation and vocabulary upgrades.
 
-## Curriculum Structure (The YouTube Top 20)
-The user has requested we follow this specific list of 20 crucial concepts. We will use this as our master checklist.
+## Curriculum Structure
 
-- [x] 1. Large Language Model (Session 2)
-- [x] 2. Tokenization (Session 2)
-- [x] 3. Vectorization / Embeddings (Session 3)
-- [ ] 4. Attention
-- [ ] 5. Self-Supervised Learning
-- [ ] 6. Transformer
-- [x] 7. Fine-tuning (Session 3)
-- [ ] 8. Few-shot Prompting
-- [x] 9. Retrieval Augmented Generation (Session 3)
-- [x] 10. Vector Database (Session 3)
-- [ ] 11. Model Context Protocol (MCP)
-- [ ] 12. Context Engineering
-- [ ] 13. Agents (Currently discussing)
-- [x] 14. Reinforcement Learning (Session 1)
-- [ ] 15. Chain of Thought
-- [ ] 16. Reasoning Models
-- [ ] 17. Multi-modal Models
-- [ ] 18. Small Language Models
-- [ ] 19. Distillation
-- [ ] 20. Quantization
+**[x] 1. Foundation Layer (Completed)**
+- What is AI? / ML / Deep Learning
+- Tokens & Context Windows
+- Parameters
+- Training vs Inference
+
+**[x] 2. LLM Layer (Completed)**
+- What is an LLM? / Next token prediction
+- Transformers & Attention
+- Why hallucinations happen
+- Temperature
+- System Prompts & Prompt Engineering
+
+**[x] 3. Modern AI Layer (Completed)**
+- Embeddings & Vector Databases
+- RAG (Retrieval-Augmented Generation)
+- Fine-tuning vs RAG
+- Function Calling / Structured Outputs
+
+**[x] 4. Agents Layer (Completed)**
+- Workflow vs Agent
+- Autonomous reasoning and execution
+
+**[ ] 5. Models Layer (Current)**
+- Proprietary vs. Open Source Models
+- GPT vs Claude vs Gemini
+- Reasoning Models (e.g., OpenAI o1)
+- Small Models vs Large Models
+
+**[ ] 6. Product Layer**
+- AI Product Design & AI UX
+- Evaluations
+- Guardrails
+- Cost Optimization
+
+**[ ] 7. Future Layer**
+- AI Economics
+- AGI
+- Model Scaling
+- Synthetic Data
+- AI Trends
