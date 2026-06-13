@@ -36,13 +36,13 @@ The goal is to become an **"AI-literate operator/product builder/founder."**
 - Workflow vs Agent
 - Autonomous reasoning and execution
 
-**[ ] 5. Models Layer (Current)**
+**[x] 5. Models Layer (Completed)**
 - Proprietary vs. Open Source Models
 - GPT vs Claude vs Gemini
 - Reasoning Models (e.g., OpenAI o1)
 - Small Models vs Large Models
 
-**[ ] 6. Product Layer**
+**[ ] 6. Product Layer (Current)**
 - AI Product Design & AI UX
 - Evaluations
 - Guardrails
